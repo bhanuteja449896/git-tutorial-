@@ -1,0 +1,7 @@
+1. Remote Repository
+                            push
+2. Locl Repository
+                            commit
+3. Staging Area
+                            file by file or all files
+4. Working Directory
