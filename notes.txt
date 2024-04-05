@@ -29,6 +29,12 @@ git commit -m " message "
 
 
 
+Branches and Features
+
+command :
+
+git checkout -b "features name "
+
 
 
 
