@@ -5,3 +5,24 @@
 3. Staging Area
                             file by file or all files
 4. Working Directory
+
+
+
+
+
+Working directory  to Staiging Area
+
+command :
+
+git add filename
+
+git add .
+
+
+
+
+Staging Area  to  Local Repository
+
+command :
+
+git commit -m " message " 
