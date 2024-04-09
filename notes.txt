@@ -38,6 +38,14 @@ git checkout -b "features name "
 
 
 
+Clone
+
+git clone  link
+
+
+
+
+
 
 
 
